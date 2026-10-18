@@ -1,5 +1,5 @@
 <h1 align="center">Hi! I'm Caleb</h1>
-<h3 align="center">Aspiring software developer from the Philippines</h3>
+<h3 align="center">Developer from the Philippines</h3>
 
 - BS Computer Science (Cum Laude) at the University of the Philippines Los Baños (UPLB)
 - Currently building APIs, data pipelines, and full-stack apps with Python, Django, and MERN
